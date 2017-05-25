@@ -1,0 +1,19 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "^2.1.5",
+    "run-async": "^2.3.0",
+    "selenium-standalone": "6.0.1",
+    "selenium-webdriver": "^3.1.0",
+    "string": "^3.3.3"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
